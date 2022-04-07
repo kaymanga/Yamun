@@ -30,4 +30,6 @@ public class PlayerMovement : MonoBehaviour
 			GetComponent<SpriteRenderer>().flipX = false;
 		}
 	}
+
+	
 }
